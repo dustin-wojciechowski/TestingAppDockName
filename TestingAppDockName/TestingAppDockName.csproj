@@ -6,6 +6,8 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>true</ImplicitUsings>
     <SupportedOSPlatformVersion>14.2</SupportedOSPlatformVersion>
+    <ApplicationTitle>Application Title</ApplicationTitle>
+    <ApplicationDisplayVersion></ApplicationDisplayVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <CreatePackage>false</CreatePackage>
